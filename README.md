@@ -26,3 +26,6 @@ This structured approach ensures thorough analysis and reliable results.
 
 ## Report
 The detailed report with methodology, analysis, and results is available in `Restaurant_Reviews_Report.pdf`.
+
+> **Note:** The datasets used in this project are included in this repository. Paths to the data files may need to be updated depending on your local setup. Currently, they are organized as in the repository, but adjust directories if your environment differs.
+
